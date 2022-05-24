@@ -7,3 +7,5 @@ IT FDN 130A Sp22.
 - Module03: Selecting Data
 - Module04: Processing Data
 - Module05: Joins and Sub-Queries
+
+> All SQL code written for MS SQL Server 2019
